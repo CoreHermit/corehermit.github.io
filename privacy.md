@@ -51,7 +51,7 @@ Core Hermit is not directed to children under 13 and we do not knowingly collect
 Because we don't collect personal data, there is no personal data held by us to access, correct, or delete. All your data is under your control on your device. If you have questions, contact us.
 
 ## Changes
-If this policy changes, we'll update the effective date and publish the new version in the app and at {{ site.url }}{{ site.baseurl }}/privacy/.
+If this policy changes, we'll update the effective date and publish the new version in the app and at https://corehermit.github.io/privacy/.
 
 ## Contact
 wavypix@gmail.com
