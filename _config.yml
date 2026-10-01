@@ -1,0 +1,10 @@
+# Core Hermit public pages (GitHub Pages / Jekyll).
+# Before publishing, set these to the choices made for D1/D2 in docs/RELEASE_CHECKLIST.md.
+title: Core Hermit
+description: On-device AI for iPhone and iPad. Chat with and compare Apple Intelligence and open models, privately. Benchmark the models to see the difference.
+# e.g. https://corehermit.github.io  (GitHub Pages, account/org "corehermit") or https://corehermit.com
+url: "https://corehermit.github.io"
+baseurl: ""
+# Public support address (D2: a separate address, not the owner's personal one).
+support_email: "wavypix@gmail.com"
+theme: minima
