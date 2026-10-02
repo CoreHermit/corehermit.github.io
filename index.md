@@ -13,3 +13,6 @@ Chat with and compare **Apple Intelligence** and **open AI models** that run ent
 - **Works offline:** once a model is downloaded, it runs without a connection.
 
 [Support]({{ site.baseurl }}/support/) · [Privacy Policy]({{ site.baseurl }}/privacy/) · [Terms of Use]({{ site.baseurl }}/terms/) · [AI Disclaimer]({{ site.baseurl }}/ai-disclaimer/)
+
+## More from Core Hermit
+- **[CoachEcho]({{ site.baseurl }}/coachecho/)**: record coaching sessions and get private, reviewable reports. For tennis and cricket coaches.
